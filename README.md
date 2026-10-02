@@ -77,3 +77,7 @@ Released for personal and commercial use. Attribution appreciated but not requir
 ---
 
 > Part of the **Website-template** series — explore templates 1–7 for layout alternatives.
+
+## 🧑‍💻 Credits
+
+Built by **Girish Lade** — [ladestack.in](https://ladestack.in)
